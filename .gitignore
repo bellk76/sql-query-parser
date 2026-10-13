@@ -1,0 +1,11 @@
+.gradle/
+build/
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+
+# Local AI-assistant tooling (not part of the assignment)
+AGENTS.md
+opencode.json
